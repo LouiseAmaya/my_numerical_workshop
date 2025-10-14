@@ -1,11 +1,7 @@
-## My first mardown file
+## My first modified mardown file
 This is a markdown file
 
 webpage : [Github](https://github.com/)
-
-Léon le caméléon  : ![Leon Le Cameleon](./images/cameleon.jpeg)
-
-[Leon Le Cameleon](./images/cameleon.jpeg)
 
 ![leonardCam](./images/no-tangled.gif)
 
