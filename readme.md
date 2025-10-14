@@ -30,7 +30,7 @@ ask ChatGPT
 
 mardown : only text file not computing
 
-A python code :
+A python cod :
 ```python
 def greet(name):
     print(f"Hello, {name}!")
