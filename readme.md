@@ -17,6 +17,7 @@ What I plan :
 # Mathematical formula
 ## Math equations
 
+
 $E=mc^2$
 
 not all latex works but most of it
